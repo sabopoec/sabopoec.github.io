@@ -1,0 +1,17 @@
+h1{text-align:center;
+color:#79361B;
+border:1.60px solid black;
+border-radius:30px;
+margin-left:375;
+width:250px;
+height:44px;
+border-color:#79361B;
+background-color:#FFFEDD;
+}
+body{background-image:url(stena.jpg);}
+.t1{
+	text-align:center;
+	font-size:18px;
+	border:3.60px solid #79361B;
+	background-color:#FFFEDD;
+}

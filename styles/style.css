@@ -1,0 +1,48 @@
+body{background-image:url(stena.jpg);}
+h1{text-align:center;
+color:#79361B;
+border:1.60px solid black;
+border-radius:30px;
+margin-left:375;
+width:250px;
+height:44px;
+border-color:#79361B;
+background-color:#FFFEDD;
+}
+.biografia{
+color:#79361B;
+border:1.60px solid black;
+border-radius:30px;
+margin-left:600;
+width:230px;
+height:50px;
+border-color:#79361B;
+background-color:#FFFEDD;
+font-size:40;
+text-align:center;
+}	
+.proizvedenia{color:#79361B;
+border:1.60px solid black;
+border-radius:30px;
+margin-left:210;
+margin-top:-52;
+width:230px;
+height:50px;
+border-color:#79361B;
+background-color:#FFFEDD;
+font-size:40;
+text-align:center;}
+.k1{
+	margin-left:550;
+	border:3.60px solid #FFFEDD;
+	width:400; 
+	height:450;
+}
+.k2{margin-top:-450;
+	border:3.60px solid #FFFEDD;
+	width:350; 
+	height:450;
+	margin-left:100;
+	
+}	
+a{color:#79361B}
